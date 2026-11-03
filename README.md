@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hallo, ich bin Florian 👋
 
-<!--
-**florianroos93/florianroos93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich mache eine Umschulung zum **Fachinformatiker für Anwendungsentwicklung (IHK)** 
+an der LUTZ + GRUB ACADEMY in Karlsruhe (08/2026 – 08/2028).
 
-Here are some ideas to get you started:
+Vorher habe ich über fünf Jahre im Vertrieb gearbeitet, unter anderem als Teamleiter 
+und als Trainer für neue Mitarbeiter. Heute verbinde ich das mit der Softwareentwicklung.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Was ich gerade lerne
+- Python (eigene Übungsprojekte, siehe unten)
+- C# und .NET (ab der Umschulung)
+- SQL und Datenbanken
+- Git und GitHub
